@@ -3,14 +3,14 @@
 <br>
 <br>
 
-### **Project Overview**
+## **Project Overview**
 
 Our team developed a small-scale dishwasher that performs a full wash, rinse, and spin cycle. The system is triggered by a PIR motion sensor and uses a DC motor to rotate the drum, along with a pump and relay module to manage water flow. The entire cycle is controlled through Arduino firmware using timing logic and state management.
 
 <br>
 <br>
 
-### **My Contributions**
+## **My Contributions**
 
 - Developed and debugged the Arduino firmware for cycle control
 
@@ -23,7 +23,7 @@ Our team developed a small-scale dishwasher that performs a full wash, rinse, an
 <br>
 <br>
 
-### **Key Features**
+## **Key Features**
 
 - Automatic motion-triggered cycle start (PIR interrupt)
 
